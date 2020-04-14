@@ -7,5 +7,5 @@ An educational game made using Unity, built with the purpose of teaching people 
 ![Backstory](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/Backstory.png)
 
 Creators: Jan Markus Milan, Jasper Caballero
-
 Topics: Nursing / Pharmacology
+
