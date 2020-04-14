@@ -14,10 +14,6 @@ How the topics are assessed:
 
 The player has to identify the symptoms each patient experiences and determine the best medicine to give to them. The player will become increasingly familiar with each medicine the more they play the game. If the player has no experience with medicine, they will learn, and if they have prior experience, it will assess their knowledge.
 
-Storyline:
-
-“After a three-year residency at a community hospital, May decided to enter private practice and open her own clinic. Her job is to determine the sickness of each person that walks in and provide them with the right medication.”
-
 ![Gameplay](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/Game%20Mechanics.png)
 ![Medicine Cabinet](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/Medicine%20Cabinet.png)
 ![JIT Instructions I](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/JIT%20Instructions%20I.png)
