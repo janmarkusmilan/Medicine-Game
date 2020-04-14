@@ -18,14 +18,15 @@ The player has to identify the symptoms each patient experiences and determine t
 
 ![Gameplay](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/Game%20Mechanics.png)
 ![Medicine Cabinet](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/Medicine%20Cabinet.png)
-![JIT Instructions I](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/JIT%20Instructions%20I.png)
-![JIT Instructions II](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/JIT%20Instructions%20II.png)
 
 Gameplay Mechanics – How to Play:
 
 –	Use the W, A, S, D keys or arrow keys to move                                                                             
 –	Press ‘F’ to interact with NPC’s and the medicine cabinet                                                               
 –	You are responsible for assessing each patient’s illness. After identifying them, you have to go to the medicine cabinet and  pick the best medicine. After choosing one, you go back to the patient and give them the medicine.
+
+![JIT Instructions I](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/JIT%20Instructions%20I.png)
+![JIT Instructions II](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/JIT%20Instructions%20II.png)
 
 Accessibility / Optional Keystrokes:
 
