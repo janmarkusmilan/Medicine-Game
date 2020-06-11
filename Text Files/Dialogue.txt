@@ -1,0 +1,353 @@
+-------- Tutorial I --------
+
+Doctor May: [dub=0]Hi! I'm May, and I'll be teaching you the basic controls. For starters, press space or return to advance the dialogue.
+Doctor May: [dub=1]Wasn't that easy? You can also click your mouse as another way of advancing the dialogue.
+Doctor May: [dub=2]If you have read this before, press the Y button on your keyboard to skip the entire conversation.
+Doctor May: [dub=3]The music note on the top right corner of the screen toggles the music to pause and play.
+Doctor May: [dub=4]Another way to pause and play the music is to press the P button on your keyboard. Try it out!
+Doctor May: [dub=5]You can toggle text to voice by pressing T on your keyboard. Try it out!
+Doctor May: [dub=6]Use the arrow keys or W, A, S, D keys to move around. Try it out!
+Doctor May: [dub=7]Great! Now that you understand how to move, let's talk about the interactive objects.
+Doctor May: [dub=8]Try moving towards the nearest blinking area. The wall blocking it will be removed upon advancing this dialogue.
+
+Doctor May: [dub=9]Congratulations! You arrived at the medicine cabinet. This is where we grab our medicine for the patient.
+Doctor May: [dub=10]There are 20 medicines here, each labeled with different classes and/or suffixes.
+Doctor May: [dub=11]In order to open the cabinet, press F on your keyboard. There, you will be shown different medicines.
+Doctor May: [dub=12]Clicking on one will display its name and description. If you want to choose the medicine, press Select. If you want to exit, press Back.
+Doctor May: [dub=13]Try selecting a medicine! After advancing this dialogue, the option will be available for you.
+
+Doctor May: [dub=14]Great! You successfully chose a medicine. The icon of it will show on the top left of my head.
+Doctor May: [dub=15]When the patient comes in, we just have to talk to them while holding the medicine to give it to them.
+Doctor May: [dub=16]If you feel unsure about your choice, you can open the medicine cabinet and choose another medicine. It will replace the one currently active.
+Doctor May: [dub=17]Now let's move to the last blinking area. The wall blocking it will be removed upon advancing this dialogue.
+
+Doctor May: [dub=18]Welcome to the next area, the Glossary area.
+Doctor May: [dub=19]Here, a book containing the definition of each term is stored here.
+Doctor May: [dub=20]Unfortunately, the code is incomplete so you are unable to view inside of it.
+Doctor May: [dub=21]The glossary is in development, so stay tuned.
+Doctor May: [dub=22]Finally, let's head back to the lounge.
+
+Doctor May: [dub=23]Hurray! You have reached the end of the first part of the introduction!
+Doctor May: [dub=24]Now that you know how to play the game, let's actually play the game and learn about medicine!
+Doctor May: [dub=25]It's time to talk to an actual patient!
+
+-------- Tutorial I --------
+
+
+
+-------- Tutorial II --------
+
+Doctor May: [dub=26]Someone is sitting in the lobby. Perhaps I should go talk to them...
+
+Doctor May: [dub=27]Good morning! What brings you here today?
+Alice: [dub=28]Ah, good morning! I was wondering if I could get medicine for this affliction of mine.
+Doctor May: [dub=29]Oh? What's the issue?
+Alice: [dub=30]Recently, I suffered from a rather severe injury. While the pain I'm feeling is slowly decreasing, it is still hard to bear.
+Alice: [dub=31]I even developed a fever a day after I received this injury. It's quite unfortunate.
+Doctor May: [dub=32]I understand. Let's get you some medicine to reduce your suffering.
+
+Doctor May: [dub=33]Severe pain... Plus a fever... I think I know just the medicine.
+
+*Correct*
+Doctor May: [dub=34]Here is your medicine.
+Alice: [dub=35]Ah, this is just what I needed! Thank you for helping me doctor!
+Doctor May: [dub=36]Good job! You gave the patient the right medicine. Now lets talk briefly about the scoring system.
+Doctor May: [dub=37]At the end of each level, a score window shows up. The score you get is out of 3 stars. 
+Doctor May: [dub=38]One star if you pick the wrong medicine, two if you pick a correct medicine but there is a better one, and three if you pick the best one.
+Doctor May: [dub=39]Since you chose the best medicine, you get three stars! Congratulations!
+Doctor May: [dub=40]Now we have reached the end of the tutorial. Let's head back to the main menu so you can choose what difficulty to play. Have fun!
+
+
+*Incorrect*
+Doctor May: [dub=41]Here is your medicine.
+Alice: [dub=42]Eh? I'm not sure if this will help me, but I trust you doctor!
+Doctor May: [dub=43]Nice try! It's unfortunate that you chose the wrong medicine, but now we can talk briefly about the scoring system.
+Doctor May: [dub=44]At the end of each level, a score window shows up. The score you get is out of 3 stars. 
+Doctor May: [dub=45]One star if you pick the wrong medicine, two if you pick a correct medicine but there is a better one, and three if you pick the best one.
+Doctor May: [dub=46]Since you chose the wrong medicine, you get one star. But don't be depressed! We all have to start from somewhere!
+Doctor May: [dub=47]Now we have reached the end of the tutorial. Let's head back to the main menu so you can choose what difficulty to play. Have fun!
+
+-------- Tutorial II --------
+
+
+
+
+-------- Level 1 --------
+
+Doctor May: [dub=48]I think I heard someone coming in earlier. Let's check the lobby.
+
+Doctor May: [dub=49]Oh? Mia, is that you? What brings you here?
+Mia: [dub=50]Hey May, do you think you can help me?
+Doctor May: [dub=51]What's wrong?
+Mia: [dub=52]Someone really close to me died a few weeks ago. I thought I could get past it over time, but I can't.
+Mia: [dub=53]I have not been happy since then. I get random mood swings and I have been eating less. It's causing trouble to my family.
+Doctor May: [dub=54]Don't worry. I'll get you just what you need.
+
+Doctor May: [dub=55]Depression... Mood swings... I have the perfect medicine.
+
+*Correct*
+Doctor May: [dub=56]Here, this should fix you up.
+Mia: [dub=57]Thanks, May. I really needed this. You're the greatest friend one could ever ask for.
+Doctor May: [dub=58]Haha. Don't sweat it. By the time I see you again, you should be all recovered and happy.
+
+*Incorrect*
+Doctor May: [dub=59]Here, this should fix you up.
+Mia: [dub=60]Eh? I don't know if this will help me, but I've known you for a long time, so I have complete trust in you.
+Doctor May: [dub=61]Ugh, I might have just betrayed her trust. Next time, I should take a closer look at what medicines I have...
+
+-------- Level 1 --------
+
+
+
+
+-------- Level 2 --------
+
+Doctor May: [dub=62]Someone is in the lobby. Let's see what they need.
+
+Doctor May: [dub=63]Hi there! How may I help you?
+Laura: [dub=64]Hi! I've been feeling kind of sick as of late, and I was wondering if I could get some medicine.
+Doctor May: [dub=65]What kind of symptoms have you been experiencing?
+Laura: [dub=66]For the past two days, I have had a mild fever and a slight headache. Do you have anything that can help me recover?
+Doctor May: [dub=67]Yeah. Let me quickly grab it for you.
+
+Doctor May:[dub=68]Mild fever and headache... I do have some medicines for those...
+
+*Correct*
+Doctor May: [dub=69]Here, this should help you.
+Laura: [dub=70]Ah! This will definitely make me better! Thanks, Doc!
+Doctor May: [dub=71]No problem. Get well soon!
+
+*Partially Correct*
+Doctor May: [dub=72]Here, this should help you.
+Laura: [dub=73]Hmm, this isn't what I had in mind, but it still works! Thanks, Doc!
+Doctor May: [dub=74]Interesting... There was definitely a better medicine I could have chose, but which one...?
+
+*Incorrect*
+Doctor May: [dub=75]Here, this should help you.
+Laura: [dub=76]I don't think this medicine will cure me, but I'll be optimistic about it. Thanks for helping, Doc!
+Doctor May: [dub=77]Uh oh. That was definitely the wrong medicine. I should be a little more attentive next time...
+
+-------- Level 2 --------
+
+
+
+
+-------- Level 3 --------
+
+Doctor May: [dub=78]Kelly said she would arrive around this time... I should check the lobby.
+
+Doctor May: [dub=79]Oh, there you are! How have you been? How is it like being married now?
+Kelly: [dub=80]I've been doing great, May! Everything is just wonderful right now. My marriage life has been working out perfectly! 
+Doctor May: [dub=81]That's good to hear, but then why are you here? Is something troubling you?
+Kelly: [dub=82]I've been thinking about this for a while, but I don't want to have a child just yet. Got anything that can help just in case?
+Doctor May: [dub=83]I understand. I got just the thing.
+
+Doctor May: [dub=84]She wants to avoid pregnancy, huh... I know what to give her.
+
+*Correct*
+Doctor May: [dub=85]Here, this medicine should do the trick.
+Kelly: [dub=86]This is just what I was looking for! Thanks, May! You have always been reliable!
+Doctor May: [dub=87]Haha. Go ahead and continue enjoying your married life. You're safe now.
+
+*Incorrect*
+Doctor May: [dub=88]Here, this medicine should do the trick.
+Kelly:[dub=89]This is definitely something I wasn't expecting, but I trust you with my life. Thanks, May!
+Doctor May: [dub=90]Oh no. I just made a mistake that's impossible to fix. I might have to close up shop and hit the books for a few days...
+
+-------- Level 3 --------
+
+
+
+
+-------- Level 4 --------
+
+Doctor May: [dub=91]Did I hear someone come in? I should go check just in case.
+
+Doctor May: [dub=92]This is quite the surprise. I never thought I'd see you here, Sarah.
+Sarah: [dub=93]I know, right? Unfortunately, I was really careless with my actions and just had to some here.
+Doctor May: [dub=94]What happened?
+Sarah: [dub=95]You know about my mild peanut allergy, right? I wasn't paying attention and accidently ate a cookie containing some.
+Sarah: [dub=96]I rushed here as soon as I realized what happened. I have been itching and sneezing all over. May, can you help me?
+Doctor May: [dub=97]Definitely. You're in safe hands. Let's grab something just for you.
+
+Doctor May: [dub=98]Mild allergy symptoms... I know what to give her.
+
+*Correct*
+Doctor May: [dub=99]Here you go. This should relieve your allergies.
+Sarah: [dub=100]*Achoo* Ah, I really needed something like this. Thanks, May!
+Doctor May: [dub=101]No problem. Feel better soon!
+
+*Incorrect*
+Doctor May: [dub=102]Here you go. This should relieve your allergies.
+Sarah: [dub=103]*Achoo* I don't think this medicine is used for allergies, but I'm not the expert here. Thanks, May!
+Doctor May: [dub=104]Whoops. I definitely gave her the wrong medicine. I think I need to study a bit more...
+
+-------- Level 4 --------
+
+
+
+
+-------- Level 5 --------
+
+Doctor May: [dub=105]I should go talk to that guy. Let's see what he needs.
+
+Doctor May: [dub=106]Hi there! How may I help you?
+Jake: [dub=107]Hi Doc. I have been feeling really horrible lately and I need your help.
+Doctor May: [dub=108]What's wrong?
+Jake: [dub=109]I am suffering from migraines. My head really hurts and I have been feeling really nauseous and dizzy. Can you please help me?
+Doctor May: [dub=110]Don't worry. I got you covered.
+
+Doctor May: [dub=111]Migraines... Pressure in the brain... Oh, I know.
+
+*Correct*
+Doctor May: [dub=112]Here, taking this will definitely help you.
+Jake: [dub=113]Amazing, this is just what I was looking for. You saved me, Doc.
+Doctor May: [dub=114]Don't sweat it. Feel better soon.
+
+*Incorrect*
+Doctor May: [dub=115]Here, taking this will definitely help you.
+Jake: [dub=116]Uh, this medicine doesn't seem right... But what do I know? Thanks for the help, Doc!
+Doctor May: [dub=117]Oof. I just gave him the wrong medicine. I should be more attentive next time.
+
+-------- Level 5 --------
+
+
+
+
+-------- Level 6 --------
+
+Doctor May: [dub=118]Connor is waiting for me. I should go talk to him.
+
+Doctor May: [dub=119]Hey Connor. What brings you here?
+Connor: [dub=120]Hey May. I have been feeling a lot of pain recently and I need your help.
+Doctor May: [dub=121]What kind of pain?
+Connor: [dub=122]You know I have arthritis, right? I have been experiencing a lot of chest pain and it really sucks. Can you help me?
+Doctor May: [dub=123]Definitely. Stay put while I get the medicine.
+
+Doctor May: [dub=124]Arthritis... Chest pain... I can give him that medicine...
+
+*Correct*
+Doctor May: [dub=125]Here, this should relieve your chest pain.
+Connor: [dub=126]Ah, this is exactly what I needed! You're the best, May!
+Doctor May: [dub=127]Now you should be good to go. Feel better, Connor!
+
+*Partially Correct*
+Doctor May: [dub=128]Here, this should relieve your chest pain.
+Connor: [dub=129]Huh? I wasn't expecting this medicine... but it still works. Thanks again, May!
+Doctor May: [dub=130]Hm, there should have been a better medicine I could have chose, but which one...?
+
+*Incorrect*
+Doctor May: [dub=131]Here, this should relieve your chest pain.
+Connor: [dub=132]May... I don't think this medicine can relieve my chest pain at all, but you're the expert. I'll trust you like always.
+Doctor May: [dub=133]What have I done? To think I made such an error... Let's hit the books again when he leaves.
+
+-------- Level 6 --------
+
+
+
+
+-------- Level 7 --------
+
+Doctor May: [dub=134]Phew... That's enough studying for now. Let's talk to that man over there.
+
+Doctor May: [dub=135]Welcome... Oh my. Is that you, Ryan? You've changed so much that I can barely recognize you.
+Ryan: [dub=136]*Slight wheezing* Yeah, it's me. It's good to see you again, May!
+Doctor May: [dub=137]I sense a little bit of wheezing coming from you. Is that why you came here?
+Ryan: [dub=138]Exactly. You know I have asthma. I have been constantly wheezing and feeling really short of breath for a while now. Care to help an old friend?
+Doctor May: [dub=139]Of course. I have just the thing for you. Let me get it.
+
+Doctor May: [dub=140]Asthma... Wheezing... I know exactly what to give him.
+
+*Correct*
+Doctor May: [dub=141]Here you go. This should fix you up.
+Ryan: [dub=142]Yeah, this will definitely help me. Thanks a ton!
+Doctor May: [dub=143]No problem. Feel better, okay?
+
+*Incorrect*
+Doctor May: [dub=144]Here you go. This should fix you up.
+Ryan: [dub=145]Huh... Well, I wasn't expecting this medicine of all things. I'm not sure if this will help, but I'll give it a shot. Thank you, May!
+Doctor May: [dub=146]I chose the wrong one... Looks like I need to continue the study session I did earlier. Sorry, Ryan.
+
+-------- Level 7 --------
+
+
+
+-------- Level 8 --------
+
+Doctor May: [dub=147]Okay, that's enough of a break. Let's see what that man needs help with.
+
+Doctor May: [dub=148]Good afternoon. What brings you here?
+Eden: [dub=149]Doctor, please help! You have to help me! I messed up and contracted herpes. Please give me a medicine that can cure it!
+Doctor May: [dub=150]...Sorry, but there is no cure for herpes. However, I do have something that can slow down it growth. Is that fine with you?
+Eden: [dub=151]Yes, that's more than enough. Thank you so much!
+Doctor May: [dub=152]Okay, let me go get it for you.
+
+Doctor May: [dub=153]The herpes simplex virus... Let's go and get the medicine.
+
+*Correct*
+Doctor May: [dub=154]Here you go. I'll say this again. The medicine can't cure herpes but it can slow down it's growth. Understood?
+Eden: [dub=155]Yes, Doctor. Thank you so much for helping me.
+Doctor May: [dub=156]You're welcome. Please be more careful with your actions.
+
+*Incorrect*
+Doctor May: [dub=157]Here you go. I'll say this again. The medicine can't cure herpes but it can slow down it's growth. Understood?
+Eden: [dub=158]Understood... Um... Looking at this medicine, it doesn't seem to be right one... Nevermind. I'm no expert. Thanks, Doctor!
+Doctor May: [dub=159]Now that I'm looking at it... Yeah, that's definitely wrong. Looks like I also made an unfortunate mistake. I need to look carefully next time.
+
+-------- Level 8 --------
+
+
+
+
+-------- Level 9 --------
+
+Doctor May: [dub=160]I've kept Luna waiting long enough. Let's talk to her.
+
+Doctor May: [dub=161]Greeting, Luna. Sorry I took so long.
+Luna: [dub=162]It's okay, May. I showed up on short notice after all.
+Doctor May: [dub=163]So, what brings you here?
+Luna: [dub=164]Yeah... About that... It seems that weeks of a bad diet and lack of exercise has finally taken a toll on my health.
+Luna: [dub=165]I have a dangerously high level of cholesterol now, and I'm kind of scared. It's my fault that I'm like this, but can you lend a helping hand?
+Doctor May: [dub=166]No need to be scared anymore. I'll get you something that can help you out.
+
+Doctor May: [dub=167]High cholesterol... I have the perfect medicine for that.
+
+*Correct*
+Doctor May: [dub=168]Here you go, Luna. Take this and you should feel better.
+Luna: [dub=169]Wow! Thanks, May! I'll definitely feel better after I take this medicine!
+Doctor May: [dub=170]If you keep up this unhealthy lifestyle, it will eventually come back. Please change it, okay?
+
+*Incorrect*
+Doctor May: [dub=171]Here you go, Luna. Take this and you should feel better.
+Luna: [dub=172]For some reason, I get the feeling that this medicine won't help me at all... But you're the one with all the knowledge. I won't doubt you!
+Doctor May:[dub=173]Actually, you should doubt me, since I just gave you the wrong medicine... Ugh, how did I manage to give the wrong one? I should have looked more closely.
+
+-------- Level 9 --------
+
+
+
+
+-------- Level 10 --------
+
+Doctor May: [dub=174]It's a beautiful day today. Let's see if there is anyone who needs help.
+
+Doctor May: [dub=175]Hi there! Sorry if I made you wait. Do you need any help?
+Jamie: [dub=176]*Burp* Goodness, excuse me. That was unbecoming of me.
+Doctor May: [dub=177]Haha. Don't sweat it. Judging from that action, I guess you have some sort of stomach problem?
+Jamie: [dub=178]Amazing! To think you could tell from first glance... It's true that I have a problem with my stomach.
+Jamie: [dub=179]To be specific, I have high stomach acid. I have been burping a lot and suffering from heartburn and acid reflux. Can you give me a medicine that can help?
+Doctor May: [dub=180]Of course! Stay right here while I go get something for you.
+
+Doctor May: [dub=181]High stomach acid... I have a medicine that can reduce that.
+
+*Correct*
+Doctor May: [dub=182]Here, this is for you. It should reduce the amount of acid your stomach makes.
+Jamie: [dub=183]Why, thank you! This is just what I needed in my life. I wish I visited you sooner.
+Doctor May:[dub=184]I'm flattered. Please get well soon!
+
+*Incorrect*
+Doctor May: [dub=185]Here, this is for you. It should reduce the amount of acid your stomach makes.
+Jamie: [dub=186]Oh my... Can this medicine really help me? It doesn't seem like it's made to deal with my issue... Actually, please ignore what I said. I trust you with this.
+Doctor May: [dub=187]Oof. Now that I'm looking at it, the medicine I chose definitely won't help with her high stomach acid. It was supposed to be a good day today too...
+
+-------- Level 10 --------
