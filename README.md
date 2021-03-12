@@ -1,6 +1,8 @@
 # Medicine-Game
 Play the game here at: http://www.csdept.csi.cuny.edu/~drsturm/Meducation/
 
+*The game has been updated, and the scripts need to be updated as well
+
 An educational game made using Unity, built with the purpose of teaching people about the different types of medicine.
 
 Note: Only the custom-created scripts will be uploaded. Other assets and designs will not be included.
