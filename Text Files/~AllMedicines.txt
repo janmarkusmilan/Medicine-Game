@@ -1,0 +1,289 @@
+﻿Acetaminophen
+
+Generic Name: Acetaminophen
+Brand Name: Tylenol
+Drug Class: Analgesics / Antipyretics
+Suffix: None
+
+Acetaminophen is a pain reliever and fever reducer.
+
+Common conditions that it can treat include: 
+    – Headaches
+    – Muscle Aches
+    – Fever
+
+Best used for mild symptoms.
+
+=Acyclovir
+
+Generic Name: Acyclovir
+Brand Name: Sitavig
+Drug Class: Antiviral
+Suffix: –vir
+
+Acyclovir slows the growth and spread of a virus (mostly for Herpes) in the body.
+
+Common conditions that it can treat include: 
+    – Herpes
+
+Best for preventing cold sores or shingles as a result of Herpes. It does not cure Herpes itself.
+
+=Albuterol
+
+Generic Name: Albuterol
+Brand Name: Ventolin
+Drug Class: Beta Agonist
+Suffix: –terol
+
+Albuterol opens the airways to the lungs to help with breathing.
+
+Common conditions that it can treat include:
+    – Wheezing
+    – Shortness of breath
+
+Best for people with asthma and other pulmonary disease.
+
+=Alfuzosin
+
+Generic Name: Alfuzosin
+Brand Name: Uroxatral
+Drug Class: Alpha Blocker
+Suffix: –zosin
+
+Alfuzosin relieves pressure from the muscles around the prostate to reduce its swelling.
+
+Common conditions that it can treat include: 
+    – Difficulty urinating
+
+Best for men who experience trouble urinating as a result of an enlarged prostate.
+
+=Amoxicillin
+
+Generic Name: Amoxicillin / Clavulanic Acid
+Brand Name: Augmentin
+Drug Class: Penicillin Antibiotic
+Suffix: –cillin
+
+Amoxicillin combats the growth of bacteria.
+
+Common conditions that it can treat include: 
+    – Bacterial Infections (Bronchitis, Pneumonia, etc.)
+    – Ear / Nose/ Throat / Skin Infections
+
+Best used for bacterial infections, not viral ones (common cold, flu, etc.)
+
+=Benazepril
+
+Generic Name: Benazepril
+Brand Name: Lotensin
+Drug Class: ACE Inhibitor
+Suffix: –pril
+
+Benazepril relaxes blood vessels and decreases its volume to ease blood flow and lower blood pressure.
+
+Common conditions that it can treat include: 
+    – High Blood Pressure
+
+This is the best medicine for high blood pressure.
+
+=Caspofungin
+
+Generic Name: Caspofungin
+Brand Name: Cancidas
+Drug Class: Echinocandins
+Suffix: –fungin
+
+Caspofungin is an antifungal drug that fights infections caused by fungi.
+
+Common conditions that it can treat include:
+    – Aspergillus Infections
+    – Candida Infections
+
+Best used for fungal infections only.
+
+=Dexamethasone
+
+Generic Name: Dexamethasone
+Brand Name: Ozurdex
+Drug Class: Corticosteroid
+Suffix: –asone
+
+Dexamethasone provides refief to inflamed areas of the body.
+
+Common conditions that it can treat include: 
+    – Swelling (in any part of the body)
+    – Allergic Reactions (that cause swelling)
+
+Best used as the main anti–inflammatory drug.
+
+=Etonogestrel
+
+Generic Name: Etonogestrel
+Brand Name: Nexplanon
+Drug Class: Progestin
+Suffix: –trel
+
+Etonogestrel is a birth control medication that prevents ovulation in women.
+
+No real symptoms where birth control is needed.
+
+Best used to prevent pregnancy, usually given as an implant.
+
+=Ibuprofen
+
+Generic Name: Ibuprofen
+Brand Name: Advil / Motrin
+Drug Class: NSAID
+Suffix: –profen
+
+Ibuprofen is a pain reliever and fever reducer. 
+
+Common conditions that it can treat include: 
+    – Headaches
+    – Muscle Aches
+    – Fever
+
+Best used for more serious, severe pain (i.e. arthritis).
+
+=Loratadine
+
+Generic Name: Loratadine
+Brand Name: Claritin
+Drug Class: Antihistamine
+Suffix: –tadine
+
+Loratadine reduces the effects of natural chemical histamines in the body.
+
+Common conditions that it can treat include: 
+    – Itching
+    – Sneezing
+
+Best used for temporarily relieving mild allergy symptoms.
+
+=Lorazepam
+
+Generic Name: Lorazepam
+Brand Name: Ativan
+Drug Class: Benzodiazepine
+Suffix: –zepam
+
+Lorazepam regulates the GABA chemicals in the brain to calm the body down from a seizure
+
+Common conditions that it can treat include: 
+    – Anxiety
+    – Seizures
+
+Best used for people with epilepsy.
+
+=Lovastatin
+
+Generic Name: Lovastatin
+Brand Name: Altoprev
+Drug Class: HMG-CoA Reductase Inhibitor
+Suffix: –statin
+
+Lovastatin reduces triglycerides to help lower (bad) cholesterol made from the liver. 
+
+Common conditions that it can treat include:
+    – High Cholesterol
+
+Best used with a proper diet to effectively lower bad cholesterol and increase beneficial ones.
+
+=Metformin
+
+Generic Name: Metformin
+Brand Name: Glucophage
+Drug Class: Antidiabetic
+Suffix: None
+
+Metformin treats diabetics by reducing the amount of sugar the liver releases.
+
+Common conditions that it can treat include:
+    – Diabetes (Type II)
+
+Best used to treat diabetes.
+
+=Metoprolol
+
+Generic Name: Metoprolol
+Brand Name: Lopressor
+Drug Class: Beta Blocker
+Suffix: –olol
+
+Metoprolol is an anti–inflammatory pain relieving drug that regulates heart and blood circulation activity.
+
+Common conditions that it can treat include: 
+    – Chest Pain
+    – Hypertension
+
+Best for people with arthritis. Must be taken with food.
+
+=Omeprazole
+
+Generic Name: Omeprazole
+Brand Name: Prilosec OTC
+Drug Class: Proton Pump Inhibitor
+Suffix: –prazole
+
+Omeprazole decreases the amount of stomach acid made.
+
+Common conditions that it can treat include: 
+    – Heartburn
+    – Acid Reflux
+
+Best used for reducing the damage in the esophagus and stomach as a result of excess stomach acid.
+
+=Ondansetron
+
+Generic Name: Ondansetron
+Brand Name: Zofran
+Drug Class: Antinauseant
+Suffix: –setron
+
+Ondansetron blocks the actions of chemicals in the body that trigger nausea or vomiting.
+
+Common conditions that it can treat include: 
+    – Nausea
+    – Vomiting
+
+Best used when experiencing nausea before/after surgery.
+
+=Sildenafil
+
+Generic Name: Sildenafil
+Brand Name: Viagra
+Drug Class: Phosphodiesterase Inhibitor
+Suffix: –afil
+
+Sildenafil relaxes muscles, relieving pressure, to increase blood flow to specific parts of the body.
+
+Common conditions that it can treat include: 
+    – Erectile Dysfunction
+
+=Sumatriptan
+
+Generic Name: Sumatriptan
+Brand Name: Sumavel DosePro
+Drug Class: Antimigraine
+Suffix: –triptan
+
+Sumatriptan narrows the blood vessels in the brain to alleviate pressure that causes migraines.
+
+Common conditions that it can treat include: 
+    – Migraines
+    – Cluster Headaches
+
+=Trazodone
+
+Generic Name: Trazodone
+Brand Name: Trazodone D
+Drug Class: Antidepressant
+Suffix: –zodone
+
+Trazodone regulates the seratonin in the brain to improve a person's mood, appetite and energy level.
+
+Common conditions that it can treat include: 
+    – Anxiety
+    – Suicidal Thoughts / Mood Swings
+
+Best used to treat depression.
