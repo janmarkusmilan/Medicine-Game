@@ -1,11 +1,9 @@
-# Medicine-Game
+# Meducation
 Play the game here at: http://www.csdept.csi.cuny.edu/~drsturm/Meducation/
-
-*The game has been updated, and the scripts need to be updated as well
 
 An educational game made using Unity, built with the purpose of teaching people about the different types of medicine.
 
-Note: Only the custom-created scripts will be uploaded. Other assets and designs will not be included.
+Note: Only the custom-created scripts will be uploaded. Other assets such as sounds, animations and sprites will not be included.
 
 ![Title Screen](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/Title%20Screen.png)
 ![Backstory](https://github.com/janmarkusmilan/Medicine-Game/blob/master/Pictures/Backstory.png)
